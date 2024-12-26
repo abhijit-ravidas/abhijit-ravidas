@@ -47,21 +47,39 @@ I am [Abhijit Ravidas](https://www.linkedin.com/in/abhijit-ravidas-7b5b5b81/), a
 
 ---
 
+## 🏆 Awards & Achievements
+- **IBM (2012–2016):** 
+  - Provided storage operations support for EMC, NetApp & IBM SAN to Rogers Communication and the National Bank of Canada.
+  - Awarded for saving a $1 million penalty through proactive actions.
+  - Key contributor in drafting SOPs to handle SEV1 incidents as a Site Reliability Engineer (SRE).
+
+- **DXC Technologies (2021–2022):**
+  - Led projects addressing storage security vulnerabilities and encryption (AES).
+  - Integrated advanced security tools like DLP, Secret Manager, and KMS into data security frameworks.
+  - Received appreciation from DXC and SAP within six months for security project excellence.
+
+- **EY-GDS (2022–2023):**
+  - Delivered infrastructure modernization for storage, NetApp, AWS, and Azure DevOps.
+  - Recognized in EY–GDS-FY23 LEAD Performance Review for expertise in storage technology, security, and network projects.
+  - Praised for strong customer management and project leadership skills.
+
+- **Deutsche Bank:**
+  - Achieved €600,000 in cost savings through compute VM optimization for FinOps.
+  - Key contributor to a **Dementia UK Hackathon 2024**, designing secure backend infrastructure.
+
+- **Other Awards:** 
+  - Star Award (Q4 2012, IBM)
+  - Manager’s Choice Award (Nov 2014, HCL)
+  - Jewel Award (July 2017, HCL)
+
+---
+
 ## 📜 Certifications
 - **Google Cloud:** Associate Cloud Engineer, Professional Security Engineer
 - **Microsoft Azure:** AZ-900, SC-900, AZ-500, AZ-305
 - **NetApp Certified Data Administrator**
 - **HashiCorp Certified Terraform Associate**
 - EY-GDS Badges: Bronze (Enterprise Architecture, Cloud), Silver (Cloud Security), Gold (Advanced Risk Management)
-
----
-
-## 🏆 Awards & Achievements
-- Star Award (Q4 2012, IBM)
-- Manager’s Choice Award (Nov 2014, HCL)
-- Jewel Award (July 2017, HCL)
-- Delivered cost optimization at Deutsche Bank, saving €600,000 over 3 years.
-- Key contributor to a **Dementia UK Hackathon 2024**, designing secure backend infrastructure.
 
 ---
 
