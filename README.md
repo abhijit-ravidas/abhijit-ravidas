@@ -68,9 +68,20 @@ I am [Abhijit Ravidas](https://www.linkedin.com/in/abhijit-ravidas-7b5b5b81/), a
   - Key contributor to a **Dementia UK Hackathon 2024**, designing secure backend infrastructure.
 
 - **Other Awards:** 
-  - Star Award (Q4 2012, IBM)
-  - Manager’s Choice Award (Nov 2014, HCL)
-  - Jewel Award (July 2017, HCL)
+- Awarded **Star Award** for Q4 2012 at IBM GPS for exceptional support to Rogers Communication, Canada.
+- Winner of the **Change Management IBM India Quiz** in Q1 2014.
+- Won the **Manager’s Choice Award** (Nov 2014, IBM) for proactive SAN operational support.
+- Received a **Certificate of Appreciation** from HCL for innovative automation ideas in December 2016.
+- Won the **HCL Jewel Award** in July 2017.
+- Participated in the **DB Hackathon 2024** for Dementia UK, developing a secure backend infrastructure using Docker, NGINX, MySQL, and Google Cloud.
+
+## 🔖 Feedback & Recognition
+- Successfully completed the **Canadian Major Incident Boot Camp** led by Karin Breens, Sr. Manager at IBM Canada MIRT, in April 2015.
+- Received high praise from EY partners and senior managers for **infrastructure modernization projects**, risk assessment, and performance improvements in storage, NetApp, AWS, and Azure DevOps.
+- **EY–GDS-FY23 LEAD Performance Review** Highlighted as an asset for teams, demonstrating expertise in storage technology, backup, security, and networking projects. Recognized for customer management skills and project leadership capabilities.
+- **Highly appreciated by Deutsche Bank's Finance and Technology Domain Director** for achieving a **€600,000 cost saving** through compute VM optimization for FinOps over three years.
+- Led efforts to modernize and assess new technologies and cloud products for Deutsche Bank, including **PoC Google Cloud NetApp Volume (GCNV)** implementations for solutions like AirGap, file storage, and lifecycle management.
+
 
 ---
 
